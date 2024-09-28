@@ -272,5 +272,7 @@ print("Os arquivos CSV e SVG foram salvos com sucesso.")
     <p>
         Este projeto é de uso acadêmico e sem fins lucrativos. Sinta-se à vontade para explorar e modificar o código conforme necessário.
     </p>
+  <h2> Atualizações futuras: </h2>
+      <p>Os dados .csv (tabela) e .svg (gráficos) são salvos para futuramente uma IA usar os mesmos para uma análise preditiva.</p>
 </body>
 </html>
